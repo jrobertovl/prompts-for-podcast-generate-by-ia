@@ -29,24 +29,23 @@
 # Projeto Podcast Gerado por I.A.s
 
 
- > ℹ️ **NOTE:** Este é o repositório desenvolvido durante uma live no Youtube em parceria com a [DIO](https://dio.me)
+ > ℹ️ **NOTE:** Este é o repositório desenvolvido durante um Bootcamp na [DIO](https://dio.me)
 
-Projeto com o objetivo de gerar um podcast utilizando ferramentas de IA através de prompts mais trabalhado.
+Projeto com o objetivo de gerar um podcast utilizando ferramentas de IA através de prompts mais trabalhados sendo copiloto para um humano.
 
-Utilizer uma esteira de prompts para gerar cada etapa do processo criativo.
+Utilizei uma esteira de prompts para gerar cada etapa do processo criativo.
 
 ## 💻 Tecnologias utilizadas no projeto
 
-- [ChatGPT](https://chat.openai.com/) 
-- [MidJourney](https://www.midjourney.com/app/)
-- [ElevenLabs](https://beta.elevenlabs.io/)
+- [ChatGPT](https://chat.openai.com/)
 - [Capcut](https://www.capcut.com/pt-br/)
+- [Photoshop portátil - Não precisa instalar](https://mega.nz/file/JqgQ3b7D#nBXAkWTnR5ss58pHgC1uLf1PPUJBsy-bLBREDEaPyOA)
 
 ## ✨ Como foi feito ?
 
 - Roteiro gerado via chatgpt
-- Audio gerado pela elevenLabs
-- Midjourney Para gerar capas
+- Audio gravado no Capcut
+- Photoshop portátil para gerar capas
 - Capcut para tratar aúdio e adicionar sons de fundo
 
 ## 📚 Materiais
@@ -71,29 +70,18 @@ Utilize os prompts dentro do link do `Notion` fornecido na parte de `Materiais` 
       align=left 
       margin=10 
       width=80 
-      src="https://avatars.githubusercontent.com/u/37452836?v=4"
+      src="https://avatars.githubusercontent.com/u/79292597?s=96&v=4"
     />
-    <p>&nbsp&nbsp&nbspFelipe Aguiar<br>
+    <p>&nbsp&nbsp&nbspJosé Roberto Vasconcellos Lopes<br>
     &nbsp&nbsp&nbsp
-    <a 
-        href="https://github.com/felipeAguiarCode">
-        GitHub
-    </a>
-    &nbsp;|&nbsp;
-    <a 
-        href="www.linkedin.com/in/felipe-exe">
-        LinkedIn
-    </a>
-    &nbsp;|&nbsp;
-    <a 
-        href="https://www.instagram.com/felipeaguiar.exe/">
-        Instagram
-    </a>
-    &nbsp;|&nbsp;</p>
+    <a href="https://github.com/jrobertovl">GitHub</a>&nbsp;|&nbsp;
+    <a href="www.linkedin.com/in/jrobertovl">LinkedIn</a>&nbsp;|&nbsp;
+    <a href="https://www.instagram.com/jrobertovl/">Instagram</a>&nbsp;|&nbsp;
+    <a href="https://api.whatsapp.com/send?phone=5591982003052">WhatsApp</a></p>
 </p>
 <br/><br/>
 <p>
 
 ---
 
-⌨️ com 💜 por [Felipe Aguiar](https://github.com/felipeAguiarCode)
+⌨️ com 💜 por [José Roberto Vasconcellos Lopes](https://github.com/jrobertovl)
